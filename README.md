@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-do" alt="coder-do" /></a> </p>
 
-- 🔭 I’m currently working on [next-starter](https://github.com/coder-do/next-starter)
 
 - 🌱 I’m currently learning **Next.js, backend(node.js)**
 
