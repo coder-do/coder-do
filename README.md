@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meruzh</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coder-do&label=Profile%20views&color=0e75b6&style=flat" alt="coder-do" /> </p>
-
+[![Gmail Badge](https://img.shields.io/badge/-meruzh.kiloyan@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meruzh.kiloyan@mail.ru)](mailto:meruzh.kiloyan@mail.ru) 
+[![Github Badge](https://img.shields.io/badge/coder-do-grey?style=flat&logo=github&logoColor=white&link=https://github.com/coder-do/)](https://www.github.com/coder-do/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/coder-do/coder-do.github.io/)](https://github.com/coder-do/coder-do.github.io/)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-do" alt="coder-do" /></a> </p>
-
-
-- 🌱 I’m currently learning **Next.js, backend(node.js)**
-
-- 📫 How to reach me **meruzh.kiloyan@mail.ru**
 
 
 <h3 align="left">Languages and Tools:</h3>
