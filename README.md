@@ -34,5 +34,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coder-do)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=coder-do&show_icons=true&locale=en" alt="coder-do" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=coder-do&" alt="coder-do" /></p>
