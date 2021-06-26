@@ -3,7 +3,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-meruzh.kiloyan@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meruzh.kiloyan@mail.ru)](mailto:meruzh.kiloyan@mail.ru) 
 [![Github Badge](https://img.shields.io/badge/coder-do-grey?style=flat&logo=github&logoColor=white&link=https://github.com/coder-do/)](https://www.github.com/coder-do/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/coder-do/coder-do.github.io/)](https://github.com/coder-do/coder-do.github.io/)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-do" alt="coder-do" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-do&theme=monokai" alt="coder-do" /></a> </p>
 
 
 <h3 align="left">Languages and Tools:</h3>
