@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meruzh</h1>
-<h3 align="center">A passionate frontend developer from Georgia</h3>
+<h3 align="center">A passionate Software Engineer from Georgia</h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-meruzh.kiloyan@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meruzh.kiloyan@mail.ru)](mailto:meruzh.kiloyan@mail.ru) 
 [![Github Badge](https://img.shields.io/badge/coder-do-grey?style=flat&logo=github&logoColor=white&link=https://github.com/coder-do/)](https://www.github.com/coder-do/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/coder-do/coder-do.github.io/)](https://github.com/coder-do/coder-do.github.io/)
