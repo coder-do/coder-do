@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Meruzh</h1>
 <h3 align="center">A passionate Software Engineer from Georgia</h3>
 
-[![Gmail Badge](https://img.shields.io/badge/-meruzh.kiloyan@mail.ru-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:meruzh.kiloyan@mail.ru)](mailto:meruzh.kiloyan@mail.ru) 
-[![Github Badge](https://img.shields.io/badge/coder-do-grey?style=flat&logo=github&logoColor=white&link=https://github.com/coder-do/)](https://www.github.com/coder-do/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/coder-do/coder-do.github.io/)](https://github.com/coder-do/coder-do.github.io/)
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coder-do&theme=juicyfresh&column=3&margin-w=15&margin-h=15" alt="coder-do" /></a> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-mkiloyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/meruzh-kiloyan-05327917b/)](https://www.linkedin.com/in/meruzh-kiloyan-05327917b/)
+[![Gmail Badge](https://img.shields.io/badge/-meruzh.kiloyan.00gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meruzh.kiloyan.00gmail.com)](mailto:meruzh.kiloyan.00gmail.com)
 
 ## ⚡ Technologies
 
